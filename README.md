@@ -1,2 +1,3 @@
 # nCUR
-NoisyCUR: An algorithm for two-cost budgeted matrix completion
+
+This is the repo for the paper: NoisyCUR: An algorithm for two-cost budgeted matrix completion
